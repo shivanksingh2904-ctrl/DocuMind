@@ -1,0 +1,11 @@
+[server]
+headless = true
+enableXsrfProtection = false   # needed for file upload inside Hugging Face's iframe
+enableCORS = false
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#6C5CE7"
