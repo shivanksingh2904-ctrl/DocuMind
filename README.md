@@ -1,13 +1,3 @@
----
-title: DocuMind
-emoji: 🧠
-colorFrom: indigo
-colorTo: purple
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # 🧠 DocuMind
 
 Ask questions about your PDFs and get answers with **numbered citations** that point to the exact page.
